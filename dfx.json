@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "canisters": {
+    "memory_backend": {
+      "type": "motoko",
+      "main": "src/memory_backend/main.mo"
+    }
+  }
+}
